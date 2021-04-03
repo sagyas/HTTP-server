@@ -1,6 +1,6 @@
 # HTTP-server
 
-HTTP server implemented with python 2.7 on Linux.
+HTTP server written in python 2.7 on Linux.
 
 ## Installation  
 
