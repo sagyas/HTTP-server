@@ -1,4 +1,4 @@
-# HTTP-server
+# HTTP Server in Python
 
 HTTP server written in python 2.7 on Linux.
 
